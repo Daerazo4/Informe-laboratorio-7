@@ -16,6 +16,7 @@ En un simulador “ACDC LAB”.
 
 ## 2. MARCO TEÓRICO
 
+https://github.com/emcabascango1/lab7/blob/main/README/Mapa%20conceptual%20(3).jpeg?raw=true
 
 ## 3. MATERIALES Y EQUIPOS
 
